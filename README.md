@@ -1,3 +1,3 @@
 # Arquiteturas_AWS
 
-<img src="financial_model.svg" alt="Financial">
+<img src="financial.svg" alt="Financial">
