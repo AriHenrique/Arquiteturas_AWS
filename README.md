@@ -1,3 +1,3 @@
 # Arquiteturas_AWS
 
-![](financial_model.svg)
+<img src="financial_model.svg" alt="Financial">
